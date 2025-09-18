@@ -4,7 +4,7 @@ SHARK ATTACKS ANALYSIS – DOCUMENTATION
 
 Project Overview:
 
-This project analyses over 6,094 recorded shark attacks spanning the past 100+ years.
+This project analyses over 6,095 shark attack entries spanning the past 100+ years.
 
 The goal was to clean, transform, and visualise the data to uncover trends, identify high-risk areas, and provide actionable insights for decision-makers.
 
@@ -34,7 +34,7 @@ o	Gender distribution of victims.
 
 Data Quality Considerations
 
-The original dataset contained 6,094 rows, but after data cleaning and validation:
+The original dataset contained 6,095 rows, but after data cleaning and validation:
 
 •	Only 1,474 rows were sufficiently complete for reliable analysis.
 
